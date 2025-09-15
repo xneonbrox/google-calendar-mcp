@@ -5,6 +5,7 @@ import { google } from "googleapis";
 // Map a clientKey to an ENV prefix. Add one line per client.
 const CLIENT_PREFIX = {
   "demo-salon": "SALON",
+  "gorjess-spa": "GORJESS"
   "demo-dentist": "DENTIST"
 };
 
